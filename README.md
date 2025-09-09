@@ -56,5 +56,3 @@ The dataset consists of multiple **fact and dimension tables**, modeled in a **s
 * Gained hands-on experience in **Power BI data modeling**, **DAX measures**, and **dashboard design**.
 * Learned how to connect and manage **multiple fact and dimension tables** for business reporting.
 * Applied **business analytics mindset** to derive actionable recommendations in the hospitality sector.
-
-Do you also want me to draft a **GitHub project tagline (one-liner)** that appears right under the repository name (e.g., *“Interactive Power BI dashboard analyzing hospitality revenue and occupancy performance”*)?
