@@ -51,18 +51,6 @@ The dataset consists of multiple **fact and dimension tables**, modeled in a **s
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 Hospitality_Revenue_Insights
- ├── 📄 meta_data_hospitality.txt   # Data dictionary of columns
- ├── 📄 metrics_list.xlsx           # KPI and metric definitions
- ├── 📄 Revenue Insights.pbix       # Power BI Dashboard
- ├── 📄 README.md                   # Project Documentation
-```
-
----
-
 ## ✨ Learning Outcomes
 
 * Gained hands-on experience in **Power BI data modeling**, **DAX measures**, and **dashboard design**.
